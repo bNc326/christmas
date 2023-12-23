@@ -47,7 +47,11 @@ const App = () => {
               by: <span className="font-semibold">Bence</span>
             </p>
             <p className="text text-lg text-center text-white font-semibold">
-              <a href="asd" target="_blank">
+              <a
+                href="https://github.com/bNc326/christmas"
+                rel="noreferrer"
+                target="_blank"
+              >
                 source
               </a>
             </p>
